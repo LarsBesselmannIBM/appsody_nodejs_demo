@@ -8,7 +8,7 @@ module.exports = (/*options*/) => {
     req.log.info({message: 'Hello from Appsody!'});
     const waitTime = 100;
     setTimeout(function() {
-      res.send('Hello from Appsody V3!, waited '+waitTime);
+      res.send('Hello from Appsody V4!, waited '+waitTime);
       }, waitTime);
   });
 
