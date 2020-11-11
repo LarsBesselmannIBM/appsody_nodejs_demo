@@ -1,0 +1,3 @@
+id: "20201111112009.48035576"
+project-name: nodejs-demo4
+stack: docker.io/kabanero/nodejs-express:0.4
